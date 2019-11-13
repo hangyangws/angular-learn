@@ -52,3 +52,10 @@ currency：格式化数字为货币格式
 ## 注意
 
 private 属性要放在 constructor 参数里面
+
+---
+
+## run
+
+- build：in src folder：`ng build --prod`
+- local server：`ng serve --open`
