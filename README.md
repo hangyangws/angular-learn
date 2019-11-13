@@ -60,7 +60,7 @@ private 属性要放在 constructor 参数里面
 ## useage
 
 - build：in src folder：`ng build --prod`
-- local server：`ng serve --open`
+- local server：`ng serve --open`
 
 ## online url
 
