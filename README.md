@@ -55,7 +55,13 @@ private 属性要放在 constructor 参数里面
 
 ---
 
-## run
+# REAMDE DOC
+
+## useage
 
 - build：in src folder：`ng build --prod`
 - local server：`ng serve --open`
+
+## online url
+
+https://stackblitz.com/edit/angular-puhhtg
